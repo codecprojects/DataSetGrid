@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="DataSetGrid" constructor="TSDataSetGrid" version="1.0.0" display-name-key="TS_DataSetGrid_Display_Key" description-key="TSIncrementControl_Desc_Key" control-type="standard" api-version="1.1.0">
+    <data-set name="dataSetGrid" display-name-key="DataSetGridProperty_Display_Key"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="css/TS_DataSetGrid.css" order="1"/>
+      <resx path="strings/TSDataSetGrid.1033.resx" version="1.0.0"/>
+    </resources>
+    <built-by name="pac" version="0.2.71"/>
+  </control>
+</manifest>
